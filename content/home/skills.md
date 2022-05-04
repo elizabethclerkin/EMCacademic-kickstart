@@ -18,37 +18,37 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = ""
+  description = "Data manipulation (e.g., dplyr and other packages in the tidyverse), data visualization (e.g., ggplot2), and statistical analysis."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = "E.g., glm, anova, logistic regression, clustering, model fitting"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = ""
+  description = "Algorithm implementation and data visualization (e.g., using Matplotlib)."
   
 [[feature]]
   icon = "eye"
   icon_pack = "fas"
-  name = "Eyetracking"
-  description = ""
+  name = "Eye-tracking"
+  description = "Pupil Labs mobile eye-tracking system — eye-gaze data collection, calibration, and analysis (with infants and adults)."
   
 [[feature]]
   icon = "comments"
   icon_pack = "fas"
   name = "Communication"
-  description = ""
+  description = "E.g., oral presentations, poster presentations, outreach events, scientific writing."
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Matlab"
-  description = ""
+  description = "Behavioral experiment programming using PsychToolbox, data manipulation, and data visualization."
 
 # Uncomment to use emoji icons.
 # [[feature]]

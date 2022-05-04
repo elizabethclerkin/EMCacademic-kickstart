@@ -11,7 +11,7 @@ authors:
 - Linda B Smith
 date: "2017-01-05T00:00:00Z"
 doi: "https://doi.org/10.1098/rstb.2016.0055"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
