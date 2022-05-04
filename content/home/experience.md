@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2021-09-15"
   date_end = ""
-  description = ""Consulted on a series of research projects funded by the National Institutes of Health (National Eye Institute) to examine the development of early visual object recognition. Steered research methodology and analytic approaches to build upon insights from my doctoral research program.
+  description = """Consulted on a series of research projects funded by the National Institutes of Health (National Eye Institute) to examine the development of early visual object recognition. Steered research methodology and analytic approaches to build upon insights from my doctoral research program.
 Designed survey to assess image quality, scripted in HTML for display on Amazon Mechanical Turk, and distributed to 1000+ individuals.
 Authored an article published in the Proceedings of the National Academy of Sciences, which is one of the foremost scientific journals and has an impact factor of 11.205."""
 
