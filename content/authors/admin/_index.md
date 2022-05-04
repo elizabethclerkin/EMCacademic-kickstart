@@ -39,12 +39,12 @@ user_groups:
 I am quantitative researcher with 7 years of experience designing and executing complex research projects. I have a PhD in Psychology, and I am excitedly pursuing a research career in industry. I am relocating the DC Metro Area in July 2022!
 
 Here are some reasons I could be a great addition to your team:
-• I am a specialist in creating rich data visualizations that communicate a clear story.
-• I am a wiz at analyzing large unstructured datasets as well as experimental design. 
-• I am skilled in data collection from human subjects, including mobile eye-tracking which I have done with participants of all ages. 
-• I am very comfortable with public speaking, and I have given talks and posters at 9 international research conferences. 
-• I have also published articles in top academic journals such as the Proceedings of the National Academy of Sciences and Trends in Cognitive Science.
-• I have a strong desire to always keep learning, and my PhD shows that I can devote myself to becoming an expert on a topic.
-• I have always led with empathy for my research participants and taken a participant-centered approach. I'm ready to apply this same mindsets to solving problems in other contexts!
+* I am a specialist in creating rich data visualizations that communicate a clear story.
+* I am a wiz at analyzing large unstructured datasets as well as experimental design. 
+* I am skilled in data collection from human subjects, including mobile eye-tracking which I have done with participants of all ages. 
+* I am very comfortable with public speaking, and I have given talks and posters at 9 international research conferences. 
+* I have also published articles in top academic journals such as the Proceedings of the National Academy of Sciences and Trends in Cognitive Science.
+* I have a strong desire to always keep learning, and my PhD shows that I can devote myself to becoming an expert on a topic.
+* I have always led with empathy for my research participants and taken a participant-centered approach. I'm ready to apply this same mindsets to solving problems in other contexts!
 
 In my free time, I love to bake and bullet journal. I am also passionate about dance — I have been dancing since I was 3! 
